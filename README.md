@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Md.Zakir Hossain</h1>
-<h3 align="center">Passionate Web Developer | Designer | Solutions.</h3>
+<h1 align="center"> Hi there 👋 I'm Md. Zakir Hossain
+🎨 Passionate Web Designer & 💻 Full-Stack Web Developer.</h1>
+<h3 align="center">Building consistent digital experiences with a focus on enhanced</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-zakir&label=Profile%20views&color=0e75b6&style=flat" alt="dev-zakir" /> </p>
 
