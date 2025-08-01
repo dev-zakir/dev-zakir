@@ -1,11 +1,9 @@
-<h1 align="center"> Hi there 👋 I'm Md. Zakir Hossain</h1>
-<h3 align="center">🎨 Passionate Web Designer & 💻 Full-Stack Web Developer</h3>
+<h1 align="center">Hi 👋, I'm Md.Zakir Hossain</h1>
+<h3 align="center">Passionate Web Developer | Designer | Solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-zakir&label=Profile%20views&color=0e75b6&style=flat" alt="dev-zakir" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-zakir" alt="dev-zakir" /></a> </p>
-
-- 🔭 I’m currently working in [freelancer.com](https://github.com/dev-zakir)
+- 🔭 I’m currently working at [freelancer.com](https://github.com/dev-zakir)
 
 - 🌱 I’m currently learning **HTML | CSS | Bootstrap | JavaScript | PHP | MySQL | WordPress**
 
